@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<teacherlist>
+<teacher>
+<name>Rahul Pitale</name>
+<id>101</id>
+<class> BE IT</class>
+</teacher>
+<teacher>
+<name>Swati Chandurkar</name>
+<id>102</id>
+<class> BE IT</class>
+</teacher>
+<teacher>
+<name>Renu Chandel</name>
+<id>103</id>
+<class> BE CO</class>
+</teacher>
+<teacher>
+<name>Kale sir</name>
+<id>104</id>
+<class> BE IT</class>
+</teacher>
+<teacher>
+<name>Rajesh Lomte</name>
+<id>105</id>
+<class> BE CO</class>
+</teacher>
+</teacherlist>
