@@ -15,12 +15,19 @@ function display(val){
     return val
 }
 function solve(){
-    let x = document.getElementById('result').value
+    try{
+        let x = document.getElementById('result').value
     let y = eval(x);
     if(y=='Infinity')
-	alert('Cannot divide by zero')
+    alert('Cannot divide by zero')
     document.getElementById('result').value = y
     return y
+    }
+    catch(e){
+        alert("Invalid Expression! Please Check and try again");
+        document.getElementById("result").value = ""
+    }
+    
 }
 function clearScreen(){
     document.getElementById('result').value = ''
