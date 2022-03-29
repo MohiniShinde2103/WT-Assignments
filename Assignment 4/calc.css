@@ -1,3 +1,9 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(to right, #00AAFF, #00FF6C);
+}
+
 .container {
     border: 1px solid #cccccc;
     box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
