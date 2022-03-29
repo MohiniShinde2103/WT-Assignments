@@ -3,7 +3,7 @@
 	xmlns="http://www.w3.org/1999/xhtml">
 <body>
 <table border="1">
-<tr style="background-color:navy;color:white">
+<tr style="background-color:navy;color:white;">
 <th align="left">Name</th>
 <th align="left">id</th>
 <th align="left">Class</th>
