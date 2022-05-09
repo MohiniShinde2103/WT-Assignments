@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\My Space\Engineering\3 rd Year\2nd  sem\WT\WT LAB\WT-Assignments\Assignment 8\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2418644403.index
+\struts-example\struts-example\src\main\java
+D:\My Space\Engineering\3 rd Year\2nd  sem\WT\WT LAB\WT-Assignments\Assignment 8\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1458747804.index
+\struts-example2\src\main\java
